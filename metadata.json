@@ -1,5 +1,6 @@
 {
   "name": "Timeless Me",
   "description": "Upload your photo and travel through time! This app uses AI to generate polaroid-style images of you reimagined in the iconic styles of different decades. With character consistency, your unique features are perfectly preserved while the AI transforms your look.",
+  "heroImage": "https://storage.googleapis.com/aidevs/project-showcase/01J32T80P48P2S14986K73K41M.png",
   "requestFramePermissions": []
 }
